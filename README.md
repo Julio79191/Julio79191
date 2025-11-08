@@ -1,14 +1,15 @@
-## Ola Pessoas que Talvez Parem pra Olhar Meu Perfil 🤩
-Eu me chamo Júlio (como podemos ver pelo nome do perfil), e vou contar um pouco sobre mim e montar uma breve listinha de coisas que eu gosto.
+## Ola Pessoal 😁
+Eu me chamo Júlio, e vou contar um pouco sobre mim e montar uma breve listinha de coisas que eu gosto.
 
 ##
-[![Julio79191 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=julio79191&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/julio79191/github-readme-stats#gh-dark-mode-only)
-[![Julio79191 GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=julio79191&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/julio79191/github-readme-stats#gh-light-mode-only)
+![Julio79191 Github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julio79191&showtheme=transparent)
+![Julio79191 Github stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julio79191&showtheme=transparent&exclude={exclude})
+
 ##
 ## Sobre Mim: 
 - Novamente, me chamo Júlio;
 - Tenho 20 anos;
-- 😀 Meus pronomes são: Ele/Dele.
+- Meus pronomes são: Ele/Dele.
 
 ### Gosto de: 
 - 📝 Desenhar (é algo que eu sempre gostei, desde criança gosto de desenhar personagens com traço de anime);
@@ -17,6 +18,7 @@ Eu me chamo Júlio (como podemos ver pelo nome do perfil), e vou contar um pouco
 - 🧠 Estudar (realmente não achava que ia dizer isso algum dia, mas eu to me divertindo bastante estudando recentemente);
 - 🎧 Musica (um pagodinho é bom demais, tem como não);
 - 👪 Familia/Amigos.
+- 📕📗📘 Scott Pilgrim (Quadrinhos/Filme/Serie);
 
 
 ### Atualmente:
