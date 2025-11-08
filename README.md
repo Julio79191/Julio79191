@@ -2,8 +2,9 @@
 Eu me chamo Júlio, e vou contar um pouco sobre mim e montar uma breve listinha de coisas que eu gosto.
 
 ##
-![Julio79191 Github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julio79191&showtheme=transparent)
-![Julio79191 Github stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julio79191&showtheme=transparent&exclude={exclude})
+[![Julio79191 GitHub Streak](https://streak-stats.demolab.com/?user=julio79191&theme=highcontrast)](https://git.io/streak-stats)
+![Julio79191 Github stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julio79191&theme=highcontrast&exclude={exclude})
+![Julio79191 Github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=julio79191&theme=highcontrast)
 
 ##
 ## Sobre Mim: 
